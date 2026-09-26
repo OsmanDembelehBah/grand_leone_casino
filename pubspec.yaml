@@ -22,6 +22,7 @@ dependencies:
   lucide_icons: ^0.257.0
   provider: ^6.1.5+1
   crypto: ^3.0.7
+  device_preview: ^3.0.0
 
 dev_dependencies:
   flutter_test:
